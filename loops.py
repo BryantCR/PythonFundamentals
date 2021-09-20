@@ -44,6 +44,24 @@ while limit <= 10:
     limit = limit + 1
 
 print( "The loop just finished" )
+
+# #for i in range(1, 11, 1):
+# #    print( i )
+
+# for i in range(10, -1, -1):
+#     print( i )
+
+# nums = [10, 20, 30, 40, 50]
+
+# for i in range( len(nums) - 1, -1, -1 ):
+#     print( i, nums[i] )
+
+# x = len(nums) - 1
+# while( x >= 0):
+#     print( x, nums[x] )
+#     x -= 1
+
+
 #import random
 
 #print('Welcome to Python!')
